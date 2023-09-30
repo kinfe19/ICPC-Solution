@@ -136,3 +136,5 @@ d-number >= 1, from which he can escape.
 
 Thus, the d-number of a room is exactly the number of collapses necessary to
 trap a spy starting in that room.  QED.
+
+[@kinfe19](https://github.com/kinfe19)
